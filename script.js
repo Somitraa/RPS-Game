@@ -33,7 +33,7 @@ function scissor(){
     if (value == s) {
         alert("tie");
     }
-    else if (value == 2) {
+    else if (value == 0) {
         alert("Computer WON");
     }
     else{
